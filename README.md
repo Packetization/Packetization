@@ -1,6 +1,6 @@
-Want to learn something new? Enjoy dabbling in different technologies?
+Knowledge should be free. I aim to provide high-quality technical content that anyone can share with anyone. If you feel the same, consider subscribing or leaving a tip. All proceeds will be reinvested into the channel, allowing me to dedicate more time to this initiative.
 
-A knowledge junkie at heart, I discuss topics such as networking, systems, cryptography, programming, architecture, security, linux, hacking and virtualization. Join me! Share your ideas, knowledge and experiences in the pursuit of technical understanding
+
 
 Tip Jars:
 
