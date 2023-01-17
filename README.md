@@ -15,7 +15,7 @@ LTC: ltc1qvmqrs6hjhqyqp5sreqv82jdyvfygja03jh8sgn
 
 [Patreon](https://www.patreon.com/Packetization)
 
-[YouTube](https://www.youtube.com/channel/UClJOOUGho8mCrwlcRqiunQQ)
+[YouTube](https://www.youtube.com/@Packetization)
 
 [Twitch](https://www.twitch.tv/packetization)
 
