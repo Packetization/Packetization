@@ -1,4 +1,4 @@
-Knowledge should be free. I aim to provide high-quality technical content that anyone can share with anyone. If you feel the same, consider subscribing or leaving a tip. All proceeds will be reinvested into the channel, allowing me to dedicate more time to this initiative.
+Welcome to my GitHub profile! You will find a collection of my open-source projects, contributions, and collaborations here. I am passionate about coding and making education accessible to all. By sharing my knowledge and experience through open-source projects, I can help others to learn and grow. You can find examples of my work in various programming languages, frameworks, and tools. Please feel free to use, contribute, and give feedback on my projects. Your support will help me to continue creating valuable and accessible education for all.
 
 
 
@@ -20,6 +20,8 @@ LTC: ltc1qvmqrs6hjhqyqp5sreqv82jdyvfygja03jh8sgn
 [Twitch](https://www.twitch.tv/packetization)
 
 [Twitter](https://twitter.com/0xpacketization)
+
+[Discord](https://discord.gg/ehhqsFNTW3)
 
 <!---
 Packetization/Packetization is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
